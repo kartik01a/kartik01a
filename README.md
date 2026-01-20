@@ -42,14 +42,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik01a&show_icons=true&theme=default&hide_border=true" />
-</p>
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik01a&show_icons=true&count_private=true&include_all_commits=true)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=kartik01a&theme=default&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=kartik01a)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik01a&layout=compact&theme=default&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik01a&layout=compact)
+

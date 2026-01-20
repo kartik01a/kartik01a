@@ -16,9 +16,6 @@
   <a href="https://www.upwork.com/freelancers/~01e74ab725bfcfa302">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://github.com/kartik01a">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -42,9 +39,11 @@
 
 ## 📊 GitHub Stats
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik01a&show_icons=true&count_private=true&include_all_commits=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik01a&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kartik01a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik01a&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik01a&layout=compact&theme=default&hide_border=true" />
+</p>
 
